@@ -1,6 +1,6 @@
 # Similarity API
 
-A project to learn modern full-stack development made by Josh.
+A Language Utility Tool Project
 
 ## Features
 
